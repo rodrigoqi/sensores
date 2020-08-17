@@ -33,10 +33,11 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:background="#AAAAAA"
-        android:paddingLeft="10dp"
-        android:paddingRight="10dp"
+        android:gravity="center_horizontal"
         android:paddingStart="10dp"
+        android:paddingLeft="10dp"
         android:paddingTop="10dp"
+        android:paddingRight="10dp"
         android:scrollbars="vertical"
         android:text="\n\n\n(( clique no botão acima para listar os sensores ))" />
 
